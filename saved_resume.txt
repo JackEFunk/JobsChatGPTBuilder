@@ -1,0 +1,57 @@
+Jack Funk
+Data Analyst/Business Analyst
+jackellisfunk@gmail.com ❖ (803) 493-0634 ❖ https://www.linkedin.com/in/jack-funk/
+
+SKILLS 
+
+ 
+•	SQL – SQL Server, MySQL, PostgreSQL
+•	R – tidyr, dplyr, ggplot2, RStudio
+•	Python – Pandas, NumPy, Scikit-Learn, Matplotlib
+•	Excel – Vlookup, Conditional Formatting, Pivot Tables
+•	Data Visualization – Tableau, PowerBI
+•	Programming – C/C++/C#, Java
+ 
+
+WORK EXPERIENCE 
+
+Data Analyst – Sector Responsible								Jul. 2020 – Sep. 2022
+Michelin North America										     	    Greenville, SC
+•	Created dashboards in Power BI to communicate data analysis to stakeholders 
+•	Coded and tested SQL queries in a Maximo database 
+•	Managed projects and worked with cross-functional teams as a leader and team member 
+•	Communicated in person and remotely with international team members 
+
+Automation Technician									 May. 2014 – Jul. 2020
+Michelin North America										     	    Greenville, SC
+•	Maintained mechanical and electrical systems 
+•	Wrote and executed program modifications 
+•	Performed hardware and software upgrades to equipment 
+•	Created and executed preventive maintenance plans 
+•	Responded to service requests and wrote detailed failure reports 
+
+Projects
+	
+Spotify Data Analysis
+•	Utilized Python to analyze over 50,000 songs and predict whether a song would reach the Spotify Top 100
+•	Aggregated and visualized data using pandas, matplotlib, and NumPy to compile a professional report
+•	Applied classification and machine learning with Scikit-Learn to create an interactive predictive tool
+NBA Data Analysis
+•	Utilized RStudio to perform statistical analysis on 20 years of NBA data and assess the Charlotte Hornets’ performance
+•	Performed data cleaning and transformation to join several tables
+•	Loaded and visualized data with ggplot2, tidyr, and dplyr
+
+EDUCATION 
+	
+Western Governors University 					                     	        		        Jan. 2023 
+BS, Computer Science 	 				   			            	           	           Salt Lake City, UT
+
+York Technical College 					                     	        		    	       May 2014 
+AS, Computer Engineering Technology					   			              	     Rock Hill, SC
+AS, Electronics Engineering Technology					   			           
+
+CERTIFICATIONS
+	
+Google Data Analytics 										       Mar. 2023
+CompTIA Project+		 					                     	        		        Oct. 2022 
+ITIL Foundation Certificate in IT Service Management	                     	        		    	       Dec. 2022
